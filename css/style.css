@@ -1,0 +1,16 @@
+body {
+	background-image: url(https://bnetcmsus-a.akamaihd.net/cms/template_resource/13FQQRP6ULQG1479495653738.jpg);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	background-size: 100%;
+	background-attachment: fixed;
+}
+.char {
+	width: 1000px;
+	height: 1000px;
+	position: relative;
+	left: 20%;
+	background-image: url(https://render-eu.worldofwarcraft.com/character/deathguard/52/113666612-main.jpg);
+	background-position: 50% 0%;
+	background-attachment: fixed;
+}
